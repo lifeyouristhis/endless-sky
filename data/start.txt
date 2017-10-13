@@ -20,3 +20,4 @@ start
 			interest 0.004
 			term 365
 	set "license: Pilot's"
+	set "start: default"
